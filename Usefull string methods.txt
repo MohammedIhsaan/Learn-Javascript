@@ -1,0 +1,9 @@
+Usefull String Method
+
+1.string.length
+2.string[indexNo]....give you specific charater based on indexNo
+3.string.indexOf()...give you first position of that word or alphbate
+4.string,slice(n1,n2)
+5.string.toLowerCase
+6.string.toUppercase
+7.string.replace('replacing word','new word')
